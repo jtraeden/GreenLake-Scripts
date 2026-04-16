@@ -2,7 +2,7 @@
 API Scripts for making changes to GreenLake
 
 
-# greenlake_swap_subscriptions.py
+## greenlake_swap_subscriptions.py
   This will all you to change the subscription on a device with another subscription in your account. 
 
   options:
